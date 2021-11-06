@@ -1,0 +1,229 @@
+[
+    {
+        "health_data": {
+            "time": "2020-07-07 10:15:59",
+            "uptime": "2020-07-07 10:15:59",
+            "jetson_clocks": "OFF",
+            "nvp_model": "10W_4CORE",
+            "CPU1": "57 %",
+            "CPU2": "76 %",
+            "CPU3": "59 %",
+            "CPU4": "82 %",
+            "CPU5": "OFF",
+            "CPU6": "OFF",
+            "GPU": "0",
+            "MTS_FG": "2 %",
+            "MTS_BG": "2 %",
+            "RAM": "3.460064 GBs",
+            "EMC": "3.460064 GBs",
+            "SWAP": "73",
+            "APE": "150 megahertz",
+            "NVENC": "OFF",
+            "NVDEC": "OFF",
+            "NVJPG": "OFF",
+            "fan": "58 %",
+            "TempAO": "36.5 °C",
+            "TempAUX": "37.0 °C",
+            "TempCPU": "38.0 °C",
+            "TempGPU": "37.0 °C",
+            "Tempthermal": "37.45 °C",
+            "powercur": "4225 milliwatts",
+            "poweravg": "3273 milliwatts"
+        },
+        "current_bus_occupancy_details": [
+            {
+                "timestamp": "2020-07-07 10:15:59",
+                "bus_name": "bus123",
+                "current_occupancy": 0,
+                "current_occupancy_1": 0,
+                "current_occupancy_2": 0,
+                "current_occupancy_3": 0,
+                "total_occupancy_till_now": 455
+            },
+            {
+                "timestamp": "2020-07-07 10:15:59",
+                "bus_name": "bus345",
+                "current_occupancy": 27,
+                "total_occupancy_till_now": 435
+            },
+            {
+                "timestamp": "2020-07-07 10:15:59",
+                "bus_name": "bus567",
+                "current_occupancy": 36,
+                "total_occupancy_till_now": 545
+            },
+            {
+                "timestamp": "2020-07-07 10:15:59",
+                "bus_name": "bus890",
+                "current_occupancy": 21,
+                "total_occupancy_till_now": 356
+            }
+        ],
+        "collective_bus_occupancy_details_weekly": [
+            {
+                "timestamp": "2020-07-07 23:59:59",
+                "bus_name": "bus123",
+                "total_occupancy_weekly": 4600
+            },
+            {
+                "timestamp": "2020-07-07 23:59:59",
+                "bus_name": "bus345",
+                "total_occupancy_weekly": 2650
+            },
+            {
+                "timestamp": "2021-07-07 23:59:59",
+                "bus_name": "bus567",
+                "total_occupancy_weekly": 6500
+            },
+            {
+                "timestamp": "2020-07-07 23:59:59",
+                "bus_name": "bus890",
+                "total_occupancy_weekly": 3720
+            }
+        ],
+        "collective_bus_occupancy_details_monthly": [
+            {
+                "timestamp": "2020-06-30 23:59:59",
+                "bus_name": "bus123",
+                "total_occupancy_monthly": 35032
+            },
+            {
+                "timestamp": "2020-06-30 23:59:59",
+                "bus_name": "bus345",
+                "total_occupancy_monthly": 25032
+            },
+            {
+                "timestamp": "2020-06-30 23:59:59",
+                "bus_name": "bus567",
+                "total_occupancy_monthly": 55132
+            },
+            {
+                "timestamp": "2020-06-30 23:59:59",
+                "bus_name": "bus890",
+                "total_occupancy_monthly": 66032
+            }
+        ],
+        "daily_bus_occupancy_details": [
+            {
+                "timestamp": "2020-07-06 23:59:59",
+                "bus_name": "bus123",
+                "total_occupancy_today": 670
+            },
+            {
+                "timestamp": "2020-07-06 23:59:59",
+                "bus_name": "bus345",
+                "total_occupancy_today": 673
+            },
+            {
+                "timestamp": "2021-07-06 23:59:59",
+                "bus_name": "bus567",
+                "total_occupancy_today": 563
+            },
+            {
+                "timestamp": "2020-01-06 23:59:59",
+                "bus_name": "bus890",
+                "total_occupancy_today": 643
+            },
+            {
+                "timestamp": "2020-07-05 23:59:59",
+                "bus_name": "bus123",
+                "total_occupancy_today": 670
+            },
+            {
+                "timestamp": "2020-07-05 23:59:59",
+                "bus_name": "bus345",
+                "total_occupancy_today": 644
+            },
+            {
+                "timestamp": "2021-07-05 23:59:59",
+                "bus_name": "bus567",
+                "total_occupancy_today": 767
+            },
+            {
+                "timestamp": "2020-01-05 23:59:59",
+                "bus_name": "bus890",
+                "total_occupancy_today": 562
+            },
+            {
+                "timestamp": "2020-07-04 23:59:59",
+                "bus_name": "bus123",
+                "total_occupancy_today": 670
+            },
+            {
+                "timestamp": "2020-07-04 23:59:59",
+                "bus_name": "bus345",
+                "total_occupancy_today": 543
+            },
+            {
+                "timestamp": "2021-07-04 23:59:59",
+                "bus_name": "bus567",
+                "total_occupancy_today": 550
+            },
+            {
+                "timestamp": "2020-01-04 23:59:59",
+                "bus_name": "bus890",
+                "total_occupancy_today": 762
+            },
+            {
+                "timestamp": "2020-07-03 23:59:59",
+                "bus_name": "bus123",
+                "total_occupancy_today": 670
+            },
+            {
+                "timestamp": "2020-07-03 23:59:59",
+                "bus_name": "bus345",
+                "total_occupancy_today": 593
+            },
+            {
+                "timestamp": "2021-07-03 23:59:59",
+                "bus_name": "bus567",
+                "total_occupancy_today": 674
+            },
+            {
+                "timestamp": "2020-01-03 23:59:59",
+                "bus_name": "bus890",
+                "total_occupancy_today": 662
+            },
+            {
+                "timestamp": "2020-07-02 23:59:59",
+                "bus_name": "bus123",
+                "total_occupancy_today": 670
+            },
+            {
+                "timestamp": "2020-07-02 23:59:59",
+                "bus_name": "bus345",
+                "total_occupancy_today": 730
+            },
+            {
+                "timestamp": "2021-07-02 23:59:59",
+                "bus_name": "bus567",
+                "total_occupancy_today": 675
+            },
+            {
+                "timestamp": "2020-01-02 23:59:59",
+                "bus_name": "bus890",
+                "total_occupancy_today": 860
+            },
+            {
+                "timestamp": "2020-07-01 23:59:59",
+                "bus_name": "bus123",
+                "total_occupancy_today": 670
+            },
+            {
+                "timestamp": "2020-07-01 23:59:59",
+                "bus_name": "bus345",
+                "total_occupancy_today": 730
+            },
+            {
+                "timestamp": "2021-07-01 23:59:59",
+                "bus_name": "bus567",
+                "total_occupancy_today": 542
+            },
+            {
+                "timestamp": "2020-01-01 23:59:59",
+                "bus_name": "bus890",
+                "total_occupancy_today": 663
+            }
+        ]
+    }
+]
